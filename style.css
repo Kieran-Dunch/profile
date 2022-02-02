@@ -83,6 +83,8 @@ a:hover {
 
 #whales{
   background-color: #48a9a6ff;
+  padding: 10px;
+  border-radius: 5px;
 }
 
 /* font-family: 'Quicksand', sans-serif;
@@ -94,3 +96,4 @@ font-family: 'Titillium Web', sans-serif; */
 --navajo-white: #f6d8aeff;
 --dark-liver-horses: #594236ff;
 --umber: ; */
+/* shadow #1b1b1e */
